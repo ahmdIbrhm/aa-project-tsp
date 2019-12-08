@@ -22,6 +22,3 @@
 - Complete the required parameters.
 - Press <b>Generate</b> button.
 - The output is show in the panel and the file has been generated!
-
-#Github Repo
-https://github.com/andreimardale/aa-project-tsp
